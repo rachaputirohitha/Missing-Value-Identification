@@ -24,7 +24,7 @@ The objective is to identify missing data, calculate the number and percentage o
 
 ##  Tasks Performed
 
-### 1. Missing Value Identification
+## 1. Missing Value Identification
 
 Missing values were identified using Excel and Pandas.
 
