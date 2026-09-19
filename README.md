@@ -66,3 +66,9 @@ The visualization shows that:
 4. `embarked` and `embark_town` each have 2 missing values.
 5. The remaining columns contain no missing values.
 6. Missing values should be handled appropriately rather than removed without justification.
+
+## Screenshots
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/036df757-10d4-40f7-9397-5a92db2d9611" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/41f49d18-9b45-4ab4-89c7-468f29ac5a1f" />
+
+
