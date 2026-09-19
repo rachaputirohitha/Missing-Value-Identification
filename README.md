@@ -30,7 +30,6 @@ Missing values were identified using Excel and Pandas.
 
 Python formula:
 
-```python
 df.isnull().sum()
 
 ##  Missing Value Summary
